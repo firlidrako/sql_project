@@ -1,5 +1,5 @@
 # sql_project
-This will keep all of my sql file
+This will keep all of my sql-project-related file
 # sql file
 - The sql file I'm using here is runing on pgadmin4's Query Tool by PostrgreSQL
 - If you wannna use it on another RDBMS, you need to make some adjustment on some functions, but for the basic SQL command, it will runs smoothly
